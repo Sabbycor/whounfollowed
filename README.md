@@ -1,6 +1,6 @@
 
 ### Obiettivo del Progetto
-L'obiettivo principale è sviluppare un programma automatizzato per monitorare la lista dei follower su piattaforme come GitHub o Instagram. Il sistema deve essere in grado di tracciare l'evoluzione dei follower giorno per giorno, permettendo di identificare specificamente chi ha smesso di seguirti e chi ha iniziato a farlo.
+L'obiettivo principale è sviluppare un programma automatizzato per monitorare la lista dei follower su piattaforme come GitHub, utilizzando come riferimento un account con molti follower. Il sistema deve essere in grado di tracciare l'evoluzione dei follower giorno per giorno, permettendo di identificare specificamente chi ha smesso di seguirti e chi ha iniziato a farlo.
 
 ### Analisi Tecnica e Problemi
 La sfida principale risiede nella struttura della pagina web, poiché la lista dei follower non è visibile interamente in una sola schermata.
